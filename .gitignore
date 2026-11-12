@@ -2,10 +2,13 @@
 
 
 # Ignore any swp files produved by vim
-.swp
+*swp
+*.swo
+*.sw?
+*~
 
 # Ignore the config.yaml file for editing with vim-lsp
-.config.yaml
+config.yaml
 
 
 # End of .gitignore
