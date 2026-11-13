@@ -1,6 +1,6 @@
 ##########################################################################
 
-CC := clang
+CC := clang++
 
 BUILD_DIR := build-files
 SRC_DIR := src/wiseRender
